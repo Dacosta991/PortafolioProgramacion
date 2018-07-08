@@ -1,0 +1,9 @@
+c:\users\dacosta91\documents\visual studio 2013\Projects\CalculoDePrestaciones\CalculoDePrestaciones\bin\Debug\CalculoDePrestaciones.exe.config
+c:\users\dacosta91\documents\visual studio 2013\Projects\CalculoDePrestaciones\CalculoDePrestaciones\obj\Debug\CalculoDePrestaciones.Properties.Resources.resources
+c:\users\dacosta91\documents\visual studio 2013\Projects\CalculoDePrestaciones\CalculoDePrestaciones\obj\Debug\CalculoDePrestaciones.csproj.GenerateResource.Cache
+c:\users\dacosta91\documents\visual studio 2013\Projects\CalculoDePrestaciones\CalculoDePrestaciones\bin\Debug\CalculoDePrestaciones.exe
+c:\users\dacosta91\documents\visual studio 2013\Projects\CalculoDePrestaciones\CalculoDePrestaciones\bin\Debug\CalculoDePrestaciones.pdb
+c:\users\dacosta91\documents\visual studio 2013\Projects\CalculoDePrestaciones\CalculoDePrestaciones\obj\Debug\CalculoDePrestaciones.exe
+c:\users\dacosta91\documents\visual studio 2013\Projects\CalculoDePrestaciones\CalculoDePrestaciones\obj\Debug\CalculoDePrestaciones.pdb
+c:\users\dacosta91\documents\visual studio 2013\Projects\CalculoDePrestaciones\CalculoDePrestaciones\obj\Debug\CalculoDePrestaciones.csprojResolveAssemblyReference.cache
+C:\Users\Dacosta91\documents\visual studio 2013\Projects\CalculoDePrestaciones\CalculoDePrestaciones\obj\Debug\CalculoDePrestaciones.CalculadoraPrestaciones.resources
